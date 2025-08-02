@@ -1,0 +1,1 @@
+# Symbolic-Projection-Audit-Operator-Class-Field-Mapping
